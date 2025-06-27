@@ -4,11 +4,11 @@
 [![FastAPI](https://img.shields.io/badge/Built%20with-FastAPI-009688.svg)](https://fastapi.tiangolo.com/)
 [![FAISS](https://img.shields.io/badge/Vector%20Search-FAISS-7e57c2.svg)](https://github.com/facebookresearch/faiss)
 
-> 🔐 An intelligent AI firewall to **detect**, **block**, and **log** sensitive data access attempts by AI agents using regex + semantic search.
+>  An intelligent AI firewall to **detect**, **block**, and **log** sensitive data access attempts by AI agents using regex + semantic search.
 
 ---
 
-## 🧠 Overview
+##  Overview
 
 This project creates a firewall that prevents AI agents from exfiltrating user-sensitive data like:
 - Aadhaar numbers
@@ -20,14 +20,14 @@ It **intercepts queries** sent to AI agents, checks them against **domain-specif
 
 ---
 
-## 🚀 Features
+##  Features
 
-- ✅ Ingests from Gmail, Drive, Docs, Bookmarks, History
-- 🤖 Embeds content using sentence-transformers (384-dim)
-- 🧠 Vector similarity with FAISS
-- 🧾 Regex + semantic privacy detection
-- 📊 SQLite database for logs & metadata
-- ⚠️ MITRE ATT&CK tactic tagging (e.g., Exfiltration)
+-  Ingests from Gmail, Drive, Docs, Bookmarks, History
+-  Embeds content using sentence-transformers (384-dim)
+-  Vector similarity with FAISS
+-  Regex + semantic privacy detection
+-  SQLite database for logs & metadata
+-  MITRE ATT&CK tactic tagging (e.g., Exfiltration)
 
 ---
 
