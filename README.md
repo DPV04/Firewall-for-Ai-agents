@@ -1,6 +1,5 @@
 # 🔒 Privacy-Preserving AI Firewall
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://www.python.org/downloads/)
 [![FastAPI](https://img.shields.io/badge/Built%20with-FastAPI-009688.svg)](https://fastapi.tiangolo.com/)
 [![FAISS](https://img.shields.io/badge/Vector%20Search-FAISS-7e57c2.svg)](https://github.com/facebookresearch/faiss)
